@@ -3,5 +3,6 @@
   require_once(__DIR__ . '/run-command.php');
 
 
+$token = 'test';
 // ...
 output(runCommand(getContext(), getCommand()));
