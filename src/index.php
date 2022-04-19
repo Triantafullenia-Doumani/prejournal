@@ -4,4 +4,6 @@
 
 
 // ...
+
+$token = 'd';
 output(runCommand(getContext(), getCommand()));
